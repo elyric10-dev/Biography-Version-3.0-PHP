@@ -5,14 +5,8 @@
     $link_responsive = "assets/css/responsive.css";
     $link_style = "assets/css/style.css";
 ?>
-<?php include 'includes/head.php';
-
-    
-
-?>
-<?php 
-
-
+<?php include 'includes/head.php';?>
+<?php
 $fullname = "Elyric Manatad";
 $title1 = "Future&nbsp;Web&nbsp;Developer";
 $title2 = "CITE&nbsp;Student&nbsp;4L";
